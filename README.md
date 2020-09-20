@@ -6,11 +6,11 @@ My solution was the use of an image considering privacy policies of the personal
 
 The research method I used for achieving this aim was online questionnaires for data methods, and waterfall methodology for my system implementation.
 
-Aim
+#Aim
 
 The aim of this project is to develop and implement methods of increasing the online customer’s awareness regarding the privacy policies and terms and conditions, and to encourage them to read those, particularly on e-commerce websites.
 
-Objectives
+#Objectives
 
 • To create a questionnaire and distribute it publicly, in order to determine the barriers that prevent the online users from fully reading the privacy policies and terms and conditions;
 
